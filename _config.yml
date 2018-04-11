@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Starting my journey into the world of coding
 header-img: img/home-bg.png
 email: enciie@gmail.com
 copyright_name: enciie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  coding adventure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: nancyjochang
 github_username:  enciie
