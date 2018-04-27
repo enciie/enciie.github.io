@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My coding journey... "
-date:       2018-04-27 00:58:37 +0000
+date:       2018-04-26 20:58:38 -0400
 permalink:  my_coding_journey
 ---
 
@@ -16,7 +16,7 @@ I've always been curious and interested in coding but never fully dove into it d
 *you won't be able to succeed in this industry...*
 
 
-My very first experience in coding was back in high school over 15 year ago, during the good old days of dial-up internet and "You got mail!". I didn't even know that I was "coding" when I was making my own custom pages using HTML codes on my Geocities homepage. It was an exiciting time for me, I would spend hours changing and adding new things to my homepage. I felt as though I was able to carve out my own space in the universe of the world wide web. It my creative outlet a place to create things like an artist would paint a picture. I would scour the internet to find any information and tips to create my own masterpiece. My homepage had music, sparkly cursors, blinking colored texts and animated gifs.  
+My very first experience in coding was back in high school over 15 year ago, during the good old days of dial-up internet and "You got mail!". I didn't even know that I was "coding" when I was making my own custom pages using HTML codes on my Geocities homepage. It was an exiciting time for me, I would spend hours changing and adding new things to my homepage. I felt as though I was able to carve out my own space in the universe of the world wide web. It became my creative outlet, a place to create things like an artist would paint a picture. I would scour the internet to find any information and tips to create my own masterpiece. My homepage had music, sparkly cursors, blinking colored texts and animated gifs.  
 
 Unfortunately, a lot of things in that era didn't last. 
 
