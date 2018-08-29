@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Validating Users with has_secure_password"
-date:       2018-08-28 02:55:00 +0000
+date:       2018-08-27 22:55:01 -0400
 permalink:  validating_users_with_has_secure_password
 ---
 
@@ -26,7 +26,7 @@ create_table "users", force: :cascade do |t|
   end
 ```
 
-BCrypt is an open source gem to add "salt" to password. A salt is simply a random string of characters that gets added into the hash. In other words, it disguises the plain text passwords so makes it difficult to decode it. So BCrypt will store the hashed version of user's password in our database column `password_digest` . 
+BCrypt is an open source gem that hashes and adds "salt" to a password - these are two separate processes.  A salt is simply a random string of characters that gets added into the string. In other words, it disguises the plain text passwords and makes it difficult to decode it. The other process of hashing, encrypts the password and guards against the possibility that someone who gains unauthorized access to the database can retrieve the passwords of every user in the system.
 
 Some of the methods that `has_secure_password` adds are `password=` and `authenticate`. 
 
