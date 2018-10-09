@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Abacus Expense Tracker - Ruby On Rails Project"
-date:       2018-10-05 09:41:46 +0000
+date:       2018-10-05 05:41:47 -0400
 permalink:  abacus_expense_tracker_-_ruby_on_rails_project
 ---
 
