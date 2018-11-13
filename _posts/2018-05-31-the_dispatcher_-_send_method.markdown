@@ -1,12 +1,10 @@
 ---
 layout: post
 title:      "The Dispatcher - SEND method"
-date:       2018-05-31 22:18:45 +0000
+date:       2018-05-31 18:18:45 -0400
 permalink:  the_dispatcher_-_send_method
 ---
 
-
-An object can be consideve methods. 
 
 #SEND is a metaprogramming method, also referred to as the dispatcher. It invokes the method identified by symbol, passing it any arguments specified. The send method takes a value as an argument and interprets it as a method. 
 
