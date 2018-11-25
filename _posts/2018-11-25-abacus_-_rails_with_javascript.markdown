@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Abacus - Rails with JavaScript"
-date:       2018-11-25 09:51:43 +0000
+date:       2018-11-25 04:51:44 -0500
 permalink:  abacus_-_rails_with_javascript
 ---
 
